@@ -11,4 +11,4 @@ This switching is automatically done by AdaptiveGANSwitcher()
 
 
 Project is still in progress
-and trying to implement a technique explained in “Perceptual losses for real time style transfer and super resolution” paper.
+and trying to implement a technique explained in “Perceptual losses for real time style transfer and super resolution” paper to get better results
